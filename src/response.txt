@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: text/html;
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>lodestar</title>
+<style>
+body {
+  font-family: monospace;
+  text-align: center;
+  background-color: #111;
+}
+p {
+  text-align: center;
+  font-size: 10em;
+  color: #f7ed5f;
+}
+</style>
+</head>
+<body>
+<p>&#10029;</p>
+</body>
+</html>
